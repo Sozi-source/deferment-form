@@ -17,9 +17,9 @@ const Home: React.FC = () => {
         <div className="bg-white shadow-md rounded-lg p-8 w-full max-w-md text-center border border-gray-100">
           <header className="text-center mb-8 w-full max-w-xl">
           <div className="flex justify-center mb-4">
-            <img 
+            <Image
           src="/logo.png"
-          alt="Imperial College of Medical and Health Sciences Logo"
+          alt=""
           width={120}
           height={120}
           className="rounded-lg"/>
